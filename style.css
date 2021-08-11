@@ -1,0 +1,23 @@
+p {
+    background-color: gray;
+}
+
+p.satu {
+    background-color: #d2691e;
+}
+
+p.dua {
+    background-color: #0000cd;
+    color: white;
+}
+
+p.tiga {
+    background-color: white;
+    font-size: large;
+    font-family: "Fira Code";
+    border: solid silver;
+}
+
+p.empat {
+    font-weight: bold;
+}
